@@ -14,7 +14,7 @@ for i in range(casos):
             qtd_rato += qtd_cobaia
         case "S":
             qtd_sapo += qtd_cobaia
-    total = qtd_coelho + qtd_sapo + qtd_rato
+total = qtd_coelho + qtd_sapo + qtd_rato
 
 print(f"Total de cobaias = {total}")
 print(f"Total de coelhos = {qtd_coelho}")
